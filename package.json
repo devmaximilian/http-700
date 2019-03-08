@@ -1,6 +1,6 @@
 {
   "name": "http-700",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "An (unofficial) implementation of the RFC for 700 HTTP Status Codes",
   "main": "index.js",
   "scripts": {
