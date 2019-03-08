@@ -1,14 +1,9 @@
 module.exports = {
   express: {
     response: {
+      statusMessage: '',
       status: code => {
-        console.log(`Sent status code ${code}`);
-        return {
-          send: text => {
-            console.log(`Sent response ${text}`);
-            return text;
-          }
-        };
+        console.log(`Set status code ${code}`);
       }
     }
   }
