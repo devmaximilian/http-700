@@ -13,6 +13,10 @@
     "unofficial",
     "implementation"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devmaximilian/http700"
+  },
   "author": "devmaximilian <6c3b3361-7018-4629-b257-1317f2a0478b@mwtdev.se>",
   "license": "MIT"
 }
