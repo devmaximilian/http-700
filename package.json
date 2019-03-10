@@ -1,6 +1,6 @@
 {
   "name": "http-700",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "An (unofficial) implementation of the RFC for 700 HTTP Status Codes",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/devmaximilian/http700"
+    "url": "https://github.com/devmaximilian/http-700"
   },
   "author": "devmaximilian <6c3b3361-7018-4629-b257-1317f2a0478b@mwtdev.se>",
   "license": "MIT"
